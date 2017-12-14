@@ -1,2 +1,2 @@
 welcome to git
-i have modified this file
+i have modified this file now
